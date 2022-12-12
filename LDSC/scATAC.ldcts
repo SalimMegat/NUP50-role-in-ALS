@@ -1,0 +1,7 @@
+ExNeuron        /home2020/home/medecine/smegat/Consortium/scATACseq/env/ldsc_sATAC/cell_type_ld_score/ex.neuron.
+InhNeuron       /home2020/home/medecine/smegat/Consortium/scATACseq/env/ldsc_sATAC/cell_type_ld_score/inh.neuron.
+Astro    /home2020/home/medecine/smegat/Consortium/scATACseq/env/ldsc_sATAC/cell_type_ld_score/astrocytes.
+Oligo    /home2020/home/medecine/smegat/Consortium/scATACseq/env/ldsc_sATAC/cell_type_ld_score/oligo.
+Microglia	/home2020/home/medecine/smegat/Consortium/scATACseq/env/ldsc_sATAC/cell_type_ld_score/microglia.
+OPCs	  /home2020/home/medecine/smegat/Consortium/scATACseq/env/ldsc_sATAC/cell_type_ld_score/opcs.
+Nigral     /home2020/home/medecine/smegat/Consortium/scATACseq/env/ldsc_sATAC/cell_type_ld_score/nigral.
